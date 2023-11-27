@@ -1,0 +1,14 @@
+MACHINE LEARNING 
+
+1. Define your data set: For each game, record the user's choice, the computer's choice, and the outcome of the game. This will be your input data.
+
+2. Split your data set: Divide your data into a training set and a test set. You will use the training set to train your machine learning model, and the test set to evaluate its performance.
+
+3. Choose a machine learning algorithm: You might consider using a classification algorithm, such as logistic regression, support vector machines, or a neural network. These algorithms are designed to learn from data and make predictions.
+
+4. Train your model: Use your training data to train your chosen machine learning algorithm. This will involve feeding the algorithm your input data (user choice and computer choice) and showing it the corresponding output (outcome of the game).
+
+ 5. Evaluate your model: After training your model, test its performance on your test data. This will give you an idea of how well your model can predict the outcome of a game based on the user's choice and the computer's choice.
+
+6. Implement your model: Once you are satisfied with your model's performance, you can implement it into your existing game program. Each time the user makes a choice, the program should feed this choice and the computer's choice into the model. The model should then provide a prediction of the outcome of the game.
+
